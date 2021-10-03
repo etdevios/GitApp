@@ -37,6 +37,7 @@ class ViewController: UIViewController {
 
     // APP STORE 1
     
+    //FIX BUG
     
 }
 
